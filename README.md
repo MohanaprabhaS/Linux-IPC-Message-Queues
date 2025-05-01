@@ -94,10 +94,3 @@ int main(int argc, char *argv[]) {
 
 ## RESULT:
 The programs are executed successfully.
-
-
-
-
-
-# RESULT:
-The programs are executed successfully.
